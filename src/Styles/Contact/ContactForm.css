@@ -1,0 +1,102 @@
+.cf {
+    padding: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(240, 233, 233, 0.869);
+    color: #000000;
+    border-radius: 0.5rem;
+}
+
+.cf-main-div {
+    padding: 1rem;
+    margin: 0.5rem;
+    text-align: center;
+}
+
+.cf-left {
+    text-align: center;
+}
+
+.cf-left-h {
+    margin: 1rem;
+    margin-bottom: 2.5rem;
+    color: #2563EB;
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 700;
+}
+
+.cf-left-p {
+    margin: 1rem;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+.cf-left-p-help
+{
+    margin-top: 1rem;
+    color: #2563EB;
+    font-weight: 600;
+}
+
+.cf-form-div {
+    margin-bottom: 1rem;
+}
+
+.cf-form-div-label {
+    text-align: left;
+    display: block;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    margin-bottom: 0.5rem;
+    color: #374151;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 700;
+}
+
+.cf-form-div-input {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    width: 100%;
+    background-color: white;
+    border-radius: 0.25rem;
+    border-width: 1px;
+    outline: none;
+}
+
+.cf-sumit-div {
+    text-align: center;
+}
+
+.cf-sumit-div-button {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #45ec16;
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+    transition-duration: 300ms;
+    color: #000000;
+    font-weight: 700;
+    border-radius: 0.25rem;
+}
+
+.cf-sumit-div-button:hover {
+    background-color: #ffffff;
+    color: #3B82F6;
+    border: 1px solid #1A8EFD;
+}
+
+@media (min-width: 1024px) {
+    .cf-right,
+    .cf-left {
+        width: 50%;
+    }
+    .cf-main-div {
+        display: flex;
+    }
+}

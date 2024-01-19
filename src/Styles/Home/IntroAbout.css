@@ -1,0 +1,52 @@
+.ia-main {
+    overflow: hidden;
+    margin-left: 2.25rem;
+    margin-right: 2.25rem;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    background-color: #ffffff;
+    border-width: 1px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.ia-left {
+    padding: 2.5rem;
+}
+
+.ia-left-img-div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ia-right-div {
+    padding: 2.5rem;
+}
+
+.ia-right-heading {
+    margin-bottom: 2rem;
+    color: #000000;
+    font-size: 3.75rem;
+    line-height: 1;
+    font-weight: 700;
+    text-align: center;
+}
+
+.ia-right-about {
+    margin-bottom: 1rem;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+.ia-right-about2 {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+@media (min-width: 1024px) {
+    .ia-right,.ia-left  {
+        width: 50%;
+    }
+    .ia {
+        display: flex;
+    }
+}
