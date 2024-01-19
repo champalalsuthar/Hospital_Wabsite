@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# RK Clinic 
+Welcome to the RK Clinic project repository! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
+Website: [RK Clinic](https://rkclinic.vercel.app/)\
+Framework: React.js \
+Deployment: Vercel 
 
-## Available Scripts
+## Features
+Easily schedule appointments with the Doctors.\
+Engage in virtual consultations to receive expert medical advice.\
+Responsive UI design for seamless user experience across devices.\
+Deployed using Vercel Pages for easy access and sharing.
 
-In the project directory, you can run:
+## Screenshots
+### Hero Section
+<img width="949" alt="image" src="https://github.com/champalalsuthar/Hospital_Wabsite/assets/135296999/9a365fd4-62a8-40e2-9413-fda2334d20c3">
 
-### `npm start`
+### About Section
+<img width="960" alt="image" src="https://github.com/champalalsuthar/Hospital_Wabsite/assets/135296999/9256687d-d3e8-4278-bcc8-90c9d538cb01">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Services Section
+<img width="959" alt="image" src="https://github.com/champalalsuthar/Hospital_Wabsite/assets/135296999/59b19e4a-d592-4f5d-960f-fd5763919bc5">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Doctors Section
+<img width="960" alt="image" src="https://github.com/champalalsuthar/Hospital_Wabsite/assets/135296999/b49fb86e-da6d-4ffd-a5d7-c629d5953d9a">
 
-### `npm test`
+### Footer Section
+<img width="960" alt="image" src="https://github.com/champalalsuthar/Hospital_Wabsite/assets/135296999/b377c58f-1ccc-4ef4-aa4b-3fe0cba61683">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Legal Documents Page
+<img width="960" alt="image" src="https://github.com/champalalsuthar/Hospital_Wabsite/assets/135296999/fef3d011-cb80-4481-830d-7fb4c4bddccd">
 
-### `npm run build`
+### Book Appointment Form Page
+<img width="960" alt="image" src="https://github.com/champalalsuthar/Hospital_Wabsite/assets/135296999/3e97f402-bc0c-4ec5-b5ac-49e56ff88308">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Contact Us Form Page
+<img width="960" alt="image" src="https://github.com/champalalsuthar/Hospital_Wabsite/assets/135296999/1419d31f-0db1-4115-9b1a-737c15e8178d">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployment
+The website is deployed using the Vercel page and can be accessed at [https://rkclinic.vercel.app/](https://rkclinic.vercel.app/) 
 
-### `npm run eject`
+## Getting Started
+To run the project locally:\
+Clone this repository: `git clone https://github.com/champalalsuthar/Hospital_Wabsite.git`\
+Navigate to the project directory: `cd Hospital_Wabsite`\
+Install dependencies: `npm install`\
+Start the development server: `npm start`\
+Open your browser and visit: `http://localhost:3000/Hospital_Wabsite`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
